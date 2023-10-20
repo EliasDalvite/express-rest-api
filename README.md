@@ -47,13 +47,13 @@ url: (GET) http://localhost:3002/jogo
 //
 ```
 
-> GET busca apenas por um genero
+> GET busca apenas por um codigo
 ```javascript
 url: (GET) http://localhost:3002/jogo/$codigoDoJogo
 //
 ```
 
-> POST add genero
+> POST add codigo
 ```javascript
 url: (POST) http://localhost:3002/jogo
 {
